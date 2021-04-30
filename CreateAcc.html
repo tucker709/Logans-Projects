@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CreateAcc.css">
+<title>Create Account</title>
+    <header id="header_form">
+        <h1 id="h1">whatsonYourMind?</h1>
+        <img id="img" src="https://cdn2.vectorstock.com/i/1000x1000/09/86/thinking-pop-art-woman-vector-5520986.jpg" alt="girl thinking" width="100px" height="100px">
+    </header>
+</head>
+
+<body>
+ <form id="my_my_form">
+     <div id="form_head">Create Account</div>
+     
+     
+     <div id="uname_div">
+         <label for="uname"><b>Username</b></label>
+         <input type="text" id="ip" name="name" required>
+     </div>
+     
+     <div id="email_div">
+         <label for="email"><b>Email</b></label>
+         <input type="text" id="ip1" name="email" required>
+     </div>
+     
+    
+    <div id="password_div">
+         <label for="password";><b>Password</b></label>
+         <input type="text" id="ip2" name="password" required>
+    </div>
+     
+     <div id="sign_in_controls">
+         <p id="have_an_account">Have an Account?</p>
+         <button id="si_button">Sign In</button>
+                  <script type="text/javascript">
+             document.getElementById("si_button").onclick = function () {
+                 location.href = "http://127.0.0.1:49908/LoginPage.html";
+             };
+         </script>
+     </div>
+      <div id="navigate_controls" >  
+         <button onclick="go_function()" id="go_button">Go</button>
+         <button onclick="back_function()" id="back_button">Back</button>
+     </div>
+
+    </form>
+
+     
+<script src="CreateAcc.js">
+    
+</script>         
+    
+
+</body>
+
+</html>
