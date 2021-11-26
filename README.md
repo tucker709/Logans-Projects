@@ -1,1 +1,1 @@
-Hi, my name is Logan Tucker, im in the software development program at Keyin College, here is just a few projects ive done. :)
+Hi. My name is Logan Tucker, im in the Software Development program at Keyin College, here is just a few projects ive done using html, css, react, javascript, node.js, passport.js, express.js, and java. :)
