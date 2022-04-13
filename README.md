@@ -1,1 +1,1 @@
-Hi. My name is Logan Tucker, ive just recently graduated from the Software Development program at Keyin College, here is just a few projects ive done using html, css, react, javascript and java. :)
+My name is Logan Tucker. I am a recent graduate of Keyin College’s 2-year Software Development program. Throughout our program, we completed a series of projects both individually and in teams. I’ve included a few of my projects that were completed using HTML, CSS, React, Javascript and Java.
